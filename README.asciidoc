@@ -1,11 +1,11 @@
-UnityGameLicenses
-----
+= UnityGameLicenses
+
+
 Apple, Google Play Store 上で公開されている Unity のゲームのライセンス表記を集めたものです。
 目grepのため抜け等ある可能性があります。
 
 
-ガールズトライブ
-====
+== ガールズトライブ
 
 - UniLua
 - DotNetZip
@@ -14,8 +14,7 @@ Apple, Google Play Store 上で公開されている Unity のゲームのライ
 - UICKeychainStore
 - Spine
 
-プロジェクト東京ドールズ
-====
+== プロジェクト東京ドールズ
 
 - FCM
 - FCM Subcomponents
@@ -31,8 +30,7 @@ Apple, Google Play Store 上で公開されている Unity のゲームのライ
 - Spine Runtime Components
 - Json.cs
 
-シノアリス
-=====
+== シノアリス
 
 - CRIWARE
 - XUPorter
@@ -52,8 +50,8 @@ Apple, Google Play Store 上で公開されている Unity のゲームのライ
 - sqlite-net
 - SQLite4Unity3d
 
-シンフォギアXD
-====
+== シンフォギアXD
+
 
 - CRIWARE
 - FadeCamera2
@@ -73,8 +71,7 @@ Apple, Google Play Store 上で公開されている Unity のゲームのライ
 - StrangeIoC
 - ugui-tween-tool
 
-ファイトリーグ
-====
+== ファイトリーグ
 
 - MiniJSON
 - MessagePacker
@@ -84,8 +81,7 @@ Apple, Google Play Store 上で公開されている Unity のゲームのライ
 - OpenStreetMap
 - FONTWORKS
 
-#コンパス
-====
+== #コンパス
 
 - KinoGlitch
 - UniClipBoard
@@ -93,8 +89,8 @@ Apple, Google Play Store 上で公開されている Unity のゲームのライ
 - Protocol Buffers
 - unity-webview
 
-ミリシタ
-====
+== ミリシタ
+
 
 - MiniJSON
 - DotNetZip
@@ -103,8 +99,7 @@ Apple, Google Play Store 上で公開されている Unity のゲームのライ
 - SS5PlayerForUnity
 - DynaFont
 
-みんゴル
-====
+== みんゴル
 
 - unity-webview
 - msgpack-unity
