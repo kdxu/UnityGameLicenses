@@ -1,0 +1,114 @@
+UnityGameLicenses
+----
+Apple, Google Play Store 上で公開されている Unity のゲームのライセンス表記を集めたものです。
+目grepのため抜け等ある可能性があります。
+
+
+ガールズトライブ
+====
+
+- UniLua
+- DotNetZip
+- MiniJSON
+- unity-webview
+- UICKeychainStore
+- Spine
+
+プロジェクト東京ドールズ
+====
+
+- FCM
+- FCM Subcomponents
+- msgpack-cli
+- SharpZipLib
+- FadeCamera2
+- Json.Net
+- Linq-to-GameObject-for-Unity
+- MemoryProfiler
+- SmartBeat
+- SBJson
+- google-breakpad
+- Spine Runtime Components
+- Json.cs
+
+シノアリス
+=====
+
+- CRIWARE
+- XUPorter
+- MiniJSON
+- HockeySDK-Android
+- HockeySDK-Unity-iOS
+- Google Analitics Plugin for Unity
+- android-volley
+- LitJSON
+- msgpack-unity
+- NCrontab
+- SyslogNet
+- RBDMuteSwitch
+- StrangeIoC
+- Pushwoosh Push Notifications SDK
+- SQLCiper
+- sqlite-net
+- SQLite4Unity3d
+
+シンフォギアXD
+====
+
+- CRIWARE
+- FadeCamera2
+- HockeySDK-Android
+- HockeySDK-Unity-iOS
+- LitJSON
+- MiniJson
+- msgpack-unity
+- NCrontab
+- NPOI
+- Pushwoosh Push Notifications SDK
+- RBDMuteSwitch
+- spine-runtimes
+- SQLCiper
+- sqlite-net
+- SQLite4Unity3d
+- StrangeIoC
+- ugui-tween-tool
+
+ファイトリーグ
+====
+
+- MiniJSON
+- MessagePacker
+- BestHTTP
+- QRCode Scanner/Reader
+- QRCode
+- OpenStreetMap
+- FONTWORKS
+
+#コンパス
+====
+
+- KinoGlitch
+- UniClipBoard
+- websocket-sharp
+- Protocol Buffers
+- unity-webview
+
+ミリシタ
+====
+
+- MiniJSON
+- DotNetZip
+- DOTween
+- Google Play Games
+- SS5PlayerForUnity
+- DynaFont
+
+みんゴル
+====
+
+- unity-webview
+- msgpack-unity
+- SharpZipLib
+- avro
+- MiniJson
+- SmartLocalization
